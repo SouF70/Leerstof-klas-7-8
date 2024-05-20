@@ -5,7 +5,7 @@ import java.util.List;
 /** Stelt een verkeerlichtencentrale voor van de simulatie en voert de simulatie uit */
 public class VerkeerslichtenCentrale {
 
-    //Corrigeer de code denkende aan static, final, access modifiers, information hiding en SRP
+    //Corrigeer de code denkende aan static, final, access modifiers (public, private, ...), information hiding en SRP
     // Er is ook 1 lijn overbodige code (met verkeerde resultaten tot gevolg)
     // en 1 logische fout
 
